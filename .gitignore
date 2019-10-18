@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+Audio_Recognition_Pipeline.ipynb
+X_f.csv
+y.csv
+data/dataset.csv
+auxiliar
+.idea/
+*.sav
+*.wav
+model_production.json
+__pycache__
+Ironhack_audio_recognition.pptx
+Aux_as.ipynb
