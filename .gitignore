@@ -5,9 +5,9 @@ y.csv
 data/dataset.csv
 auxiliar
 .idea/
-*.sav
+*KNN.sav
+testing
 *.wav
-model_production.json
 __pycache__
 Ironhack_audio_recognition.pptx
 Aux_as.ipynb

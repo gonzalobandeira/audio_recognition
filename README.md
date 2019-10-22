@@ -26,13 +26,30 @@ From the project folder:
  * To run the live-gui: 
  
         python main_ui/main_ui_live.py
-        
+       
+From the last version deploy you only need to run the live-gui as you are able to access the other functionalities from 
+it's built-in GUI. 
+
+![](main_ui/ico/live_gui.PNG)
+
+
         
 ## Requirements
 
 Install the requirement with the following command: 
 
         pip install -r requirements.txt
+        
+        
+## Web version 
+
+A simple web version is acessible via the below URL: 
+
+  [Audio Recognition web page](https://audio-classifier.000webhostapp.com)
+  
+ The web page makes a request with the recorded file to a program hosted in Heroku. The model will the classify and return a 
+ class according to the model prediction. 
+
 
 
 
